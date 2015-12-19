@@ -1,0 +1,19 @@
+{
+  "name": "hypixelapi",
+  "version": "2.0.0",
+  "description": "A skeleton of the new Hypixel API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AniSkywalker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "express-jwt": "^3.3.0",
+    "jsonwebtoken": "^5.4.1",
+    "mongoose": "^4.3.3"
+  }
+}
